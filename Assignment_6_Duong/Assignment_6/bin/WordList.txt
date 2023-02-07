@@ -1,0 +1,10 @@
+animal
+cat
+dog
+elephant
+tiger
+horse
+camel
+dragon
+panel
+mouse

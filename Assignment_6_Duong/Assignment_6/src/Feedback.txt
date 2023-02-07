@@ -1,0 +1,9 @@
+1. Time: 24 hours
+2. Difficult
+    Reading txt file
+    Require user type letter input instead of other type of input
+3. Learned
+    Reading txt file
+    A way to identify the letter input (ascii > 96 && ascii < 123)
+4. Others
+    None
